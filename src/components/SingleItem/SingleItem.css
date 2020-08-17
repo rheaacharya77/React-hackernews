@@ -1,0 +1,22 @@
+.title {
+    text-align: left;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 4px;
+    height: 150px;
+  }
+  
+  .author {
+    text-align: right;
+    font-size: 14px;
+    color: black;
+    margin-top: 6px;
+  }
+
+  .Moreinfo{
+    text-align: right;
+    font-size: 14px;
+    color: black;
+    margin-top: 6px;
+  }
